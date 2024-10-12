@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fr.linkedin.com/in/stanislas-troha-65a677243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/stanislas-troha-65a677243" height="30" width="40" /></a>
-<a href="discordapp.com/users/382912641498087435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/382912641498087435" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/382912641498087435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/382912641498087435" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
