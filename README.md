@@ -12,7 +12,7 @@
 
 
 
-<h2 align="left" id="macropower-tech">Favorite Languages</h2>
+<h2 align="left">Favorite Languages</h2>
 > Languages that I like to work with.
 
 <table>
