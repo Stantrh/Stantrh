@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there, I'm Stanislas Troha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
-<h3 align="center">A cybersecurity enthusiast and developer from France</h3>
+<h3 align="center">A cybersecurity enthusiast and IT student from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stantrh&label=Profile%20views&color=0e75b6&style=flat" alt="stantrh" /> </p>
+  ![](https://komarev.com/ghpvc/?username=stantrh&label=Profile%20Visits&color=blue&style=for-the-badge)
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/)
+- 🧑‍🎓I'm currently in my third year of a Bachelor of Technology (BUT) in Computer Science at IUT Charlemagne
+- 🔭 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/)
 - 🌱 I’m currently learning **Rust** for malware development
 - 👯 I’m looking for a team for **CTFs**
 - 👨‍💻 All of my projects are available at [https://github.com/Stantrh?tab=repositories](https://github.com/Stantrh?tab=repositories)
-
-
 
 <h2 align="left">Favorite Languages</h2>
 > Languages that I like to work with.
