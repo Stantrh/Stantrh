@@ -1,18 +1,27 @@
 <h1 align="center"> Hi there, I'm Stanislas Troha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <h3 align="center">A cybersecurity enthusiast and IT student from France</h3>
 
+<p align="center">
+  <a href="https://media4.giphy.com/media/l0HlCtvUayCgoNGog/giphy.gif">
+    <img src="https://media4.giphy.com/media/l0HlCtvUayCgoNGog/giphy.gif" alt="Profile Visits" />
+  </a>
+</p>
+
+
+
   ![](https://komarev.com/ghpvc/?username=stantrh&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🧑‍🎓I'm currently in my third year of a Bachelor of Technology (BUT) in Computer Science at IUT Charlemagne
-- 🔭 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/)
-- 🌱 I’m currently learning **Rust** for malware development
-- 👯 I’m looking for a team for **CTFs**
+- 🏫 I'm currently in my third year of a Bachelor of Technology (BUT) in Computer Science at IUT Charlemagne
+- 🛡 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/) and practicing it on other platforms with labs (THM, HTB Labs, PortSwigger, RootMe)
+- 🔭 I’m currently learning **Rust** for malware development
+- 🤝 I’m looking for a team for **CTFs**
 - 👨‍💻 All of my projects are available at [https://github.com/Stantrh?tab=repositories](https://github.com/Stantrh?tab=repositories)
 
-<h2 align="left">Favorite Languages</h2>
-> Languages that I like to work with.
+<h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" /> Favorite Tech</h2>
+
+> Languages I like to work with.
 
 <table>
   <tr>
@@ -35,9 +44,38 @@
     <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       <br>Python
+    </td>
   </tr>
 </table>
 
+
+
+> Operating Systems I enjoy using.
+> 
+<table>
+  <tr>
+    <td align="center" width="96">
+       <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kali-linux-icon.png" alt="kali" width="40" height="40"/> </a>
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1zvAhC4IUBM9Kb_CHncxu9AeFFlMXRAnQQ&s" alt="parrotos" width="40" height="40"/> </a>
+      <br>ParrotOS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-debian-2-202378.png?f=webp" alt="debian" width="40" height="40"/> </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Windows_icon-icons.com_56585.png" alt="windows10" width="40" height="40"/> </a>
+      <br>Windows10
+    </td>
+  </tr>
+</table>
+
+> My favourite OSINT Tools
+
+TODO
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
