@@ -55,11 +55,15 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <a href="https://blackarch.org/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/438787.png" alt="black_arch" width="40" height="40"/> </a>
+      <br>Black Arch
+    </td>
+    <td align="center" width="96">
        <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kali-linux-icon.png" alt="kali" width="40" height="40"/> </a>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1zvAhC4IUBM9Kb_CHncxu9AeFFlMXRAnQQ&s" alt="parrotos" width="40" height="40"/> </a>
+      <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1zvAhC4IUBM9Kb_CHncxu9AeFFlMXRAnQQ&s" alt="parrot_os" width="40" height="40"/> </a>
       <br>ParrotOS
     </td>
     <td align="center" width="96">
