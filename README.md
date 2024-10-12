@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stanislas Troha</h1>
+# Hi there, I'm Stanislas Troha! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <h3 align="center">A cybersecurity enthusiast and developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stantrh&label=Profile%20views&color=0e75b6&style=flat" alt="stantrh" /> </p>
