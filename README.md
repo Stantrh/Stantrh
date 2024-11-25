@@ -17,7 +17,7 @@
 - 🛡 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/) and practicing it on other platforms with labs (THM, HTB Labs, PortSwigger, RootMe)
 - 🔭 I’m currently learning **Rust** for malware development
 - 🤝 I’m looking for a team for **CTFs**
-- 👨‍💻 All of my public projects are available at [https://github.com/Stantrh?tab=repositories](https://github.com/Stantrh?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/Stantrh?tab=repositories) 
 <br>
 
 ***
