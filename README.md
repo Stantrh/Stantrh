@@ -144,7 +144,7 @@ TODO
 <p align="left">
 <a href="https://fr.linkedin.com/in/stanislas-troha-65a677243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/stanislas-troha-65a677243" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/382912641498087435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/382912641498087435" height="30" width="40" /></a>
-<a href="https://www.root-me.org/naxylRTT" target="blank"><img align="center" src="https://seeklogo.com/images/R/root-me-logo-8604876B5B-seeklogo.com.png" alt="https://www.root-me.org/naxylRTT" height="30" width="40" /></a>
+<a href="https://www.root-me.org/naxylRTT" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="https://www.root-me.org/naxylRTT" height="30" width="40" /></a>
 <a href="mailto:?to=stan.troha@proton.me" target="blank"><img align="center" src="https://c.clc2l.com/t/p/r/protonmail-OsbVvf.png" alt="mailto:?to=stan.troha@proton.me" height="30" width="40" /></a>
 </p>
 
