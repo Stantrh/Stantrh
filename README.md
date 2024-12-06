@@ -22,6 +22,8 @@
 
 ***
 
+![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=naxylRTT&gstats=show)
+
 <br>
 
 <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" /> Favorite Tech</h2>
