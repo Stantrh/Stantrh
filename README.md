@@ -14,13 +14,15 @@
 <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me: </h2>
 
 - 🏫 I'm currently in my third year of a Bachelor of Technology (BUT) in Computer Science at IUT Charlemagne
-- 🛡 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/) and practicing it on other platforms with labs (THM, HTB Labs, PortSwigger, RootMe)
+- 🛡 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/) and practicing it on other platforms with labs ([RootMe](https://www.root-me.org/naxylRTT), HTB Labs, PortSwigger, RootMe)
 - 🔭 I’m currently learning **Rust** for malware development
 - 🤝 I’m looking for a team for **CTFs**
 - 👨‍💻 All of my public projects are available [here](https://github.com/Stantrh?tab=repositories) 
 <br>
 
 ***
+### Root me 
+https://www.root-me.org/naxylRTT
 
 ![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=naxylRTT&gstats=show)
 #### Mon challenge préféré
