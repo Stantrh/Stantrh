@@ -25,8 +25,8 @@
 https://www.root-me.org/naxylRTT
 
 ![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=naxylRTT&gstats=show)
-#### Mon challenge préféré
-Challenge Web3, en programmation sur les smart contracts ETHEREUM :   
+#### Favorite Challenge
+Web3 chall, with solidity on ETH. Interisting vulnerabilities, discover of a new algorithm (ECSDA). Really challenging !!
 https://www.root-me.org/fr/Challenges/Programmation/Ethereum-King-of-the-EVM
 
 <br>
