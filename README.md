@@ -23,6 +23,9 @@
 ***
 
 ![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=naxylRTT&gstats=show)
+#### Mon challenge préféré
+Challenge Web3, en programmation sur les smart contracts ETHEREUM :   
+https://www.root-me.org/fr/Challenges/Programmation/Ethereum-King-of-the-EVM
 
 <br>
 
