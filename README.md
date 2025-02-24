@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Stanislas Troha! <img height="30px" src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif"></h1>
+<h1 align="center"> Hi there, I'm Stanislas ! <img height="30px" src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif"></h1>
 <h3 align="center">A cybersecurity enthusiast and IT student from France</h3>
 
 <p align="center">
