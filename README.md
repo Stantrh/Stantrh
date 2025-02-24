@@ -16,7 +16,7 @@
 - 🏫 I'm currently in my third year of a Bachelor of Technology (BUT) in Computer Science at IUT Charlemagne
 - 🛡 I’m studying cybersecurity on [HackTheBox Academy](https://academy.hackthebox.com/) and practicing it on other platforms with labs ([RootMe](https://www.root-me.org/naxylRTT), HTB Labs, PortSwigger)
 - 🔭 I’m currently learning **Rust** for malware development
-- ⛓️‍💥I'm also learning Reverse Engineering on [Reverse.zip](https://reverse.zip/) and [0x0ff.info](https://www.0x0ff.info/tag/reverse-engineering/) (Mainly for ELF x86 programs)
+- ⛓️‍💥I'm also learning Reverse Engineering on [Reverse.zip](https://reverse.zip/) and [0x0ff.info](https://www.0x0ff.info/tag/reverse-engineering/) (Mainly for ELF x86-x64 programs)
 - 🤝 I’m looking for a team for **CTFs**
 - 👨‍💻 All of my public projects are available [here](https://github.com/Stantrh?tab=repositories) 
 <br>
