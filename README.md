@@ -90,12 +90,6 @@ https://www.root-me.org/fr/Challenges/Programmation/Ethereum-King-of-the-EVM
   </tr>
 </table>
 
-> My favourite OSINT Tools
-
-TODO
-
-<br>
-
 ***
 
 <br>
