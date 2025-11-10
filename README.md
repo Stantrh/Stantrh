@@ -22,15 +22,7 @@
 <br>
 
 ***
-### Root me 
-https://www.root-me.org/naxylRTT
 
-![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=naxylRTT&gstats=show)
-#### Favorite Challenge
-Web3 chall, with solidity on ETH. Interisting vulnerabilities, discover of a new algorithm (ECSDA). Really challenging !!
-https://www.root-me.org/fr/Challenges/Programmation/Ethereum-King-of-the-EVM
-
-<br>
 
 <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25" /> Favorite Tech</h2>
 
